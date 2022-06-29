@@ -11,11 +11,11 @@ Shop:
 Shop-server:
 -Add new product;
 -Edit product:
-    [] Edit title;
-    [] Edit price;
-    [] Edit code;
-    [] Edit description;
-    [] Add / Delete photo;
+    [ ] Edit title;
+    [ ] Edit price;
+    [ ] Edit code;
+    [ ] Edit description;
+    [ ] Add / Delete photo;
 -Delete item;
 
 
